@@ -1,0 +1,13 @@
+
+#movieList {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.movie-cards {
+    height: 40rem;
+    border: solid 1px 1px gray;
+}
